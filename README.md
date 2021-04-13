@@ -59,11 +59,11 @@ DTO é conhecido como Data Transfer Object ele é utilizado para deixarmos nossa
 
 São os verbos utilizados no protocolo HTTP e existem vários, porém os mais utilizados são GET, POST, PUT, PATCH e DELETE para não me estender e esse não é o objetivo vou explicar rapidamente. GET: Quando queremos buscar algo no servidor, nesse modo só conseguimos enviar informações pelo Path ou pelo Header. POST: Quando precisamos enviar alguma informação para o servidor, ela pode ser feita pelo Body. PUT: Quando precisamos atualizar alguma informação no servidor, ela pode ser feita pelo Body e lembrando que nesse caso o objeto inteiro é atualizado. PATCH: Quando precisamos atualizar apenas os campos que queremos, isso pode ser feito pelo Body e DELETE: Quando precisamos excluir algo no servidor, ele pode ser feito pelo Path ou Header.
 
-Pacotes Utilizados nesse projeto:
-    • Microsoft.EntityFrameworkCore.InMemory
-    • AutoMapper.Extensions.Microsoft.DependencyInjection
-    • Microsoft.AspNetCore.JsonPatch
-    • Microsoft.AspNetCore.Mvc.NewtonsoftJson
+## Pacotes Utilizados nesse projeto:
+* Microsoft.EntityFrameworkCore.InMemory
+* AutoMapper.Extensions.Microsoft.DependencyInjection
+* Microsoft.AspNetCore.JsonPatch
+* Microsoft.AspNetCore.Mvc.NewtonsoftJson
 
 Para quem quiser saber mais eu recomendo fortemente que deem uma conferida nos vídeos do canal desse autor.
 
