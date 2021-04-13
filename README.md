@@ -1,7 +1,6 @@
 # .NET Core 5 MVC Rest API ###
 
-Esse projeto é feito com base no curso que o Les Jackson disponibilizou no Youtube:
-Link: https://www.youtube.com/watch?v=fmvcAzHpsk8
+Esse projeto é feito com base no curso que o Les Jackson disponibilizou no Youtube Link: https://www.youtube.com/watch?v=fmvcAzHpsk8
 
 Esse projeto conta com o desenvolvimento de uma API Rest.
 Durante o projeto nós contamos com o aprendizado de:
